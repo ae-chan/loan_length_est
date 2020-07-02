@@ -1,5 +1,0 @@
-﻿Status,Description
-Open,"Live assistance is being provided, ensure clients are being updated every 7-10mins."
-Action Needed,"More research is required (30mins+), notify client of that, provide reference number and ETA, then later respond via MSG."
-Deferred,Attached DRQS and switch back to Action Needed once the DRQS is resolved.
-Closed,"Resolved. Must add mandatory https://www.notion.so/antchan/ADSK-Overview-1f5ed9af0e874ea181f96927f1445163#a0c949ec717d4de59ed2c14e4aebc5ba of Resolution, FIGI and Calc Route ID."
